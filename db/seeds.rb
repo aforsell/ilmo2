@@ -37,7 +37,7 @@ end
 @adjectives = ["Enterprise", "Agile", "Integrated", "Rich interface", "Social",
 				"Service-oriented", "Scalable", "User-centric", "Proactive",
 				"Solution-centric", "Autonomous", "Unsupervised", "Mobile",
-				"Discrete", "Holistic", "Principles of", "In depth", "Introduction to",
+				"Discrete", "Holistic", "Principles of", "In depth",
 				"Performance Modeling for"]
 
 @buzzwords = ["Ruby on Rails", "SAAS", "JBoss", "Ajax", "Design Pattern",
