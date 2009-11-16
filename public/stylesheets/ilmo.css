@@ -23,6 +23,13 @@ div#head {
 div#notice {
 	padding: 5px;
 	margin: 5px;
+	color: #eeeeee;
+	border: 1px dotted white;
+}
+
+div#error {
+	padding: 5px;
+	margin: 5px;
 	color: red;
 	border: 1px dotted white;
 }
